@@ -2,7 +2,8 @@
 plasma 6 dolphin service menu to hide items
 
 
+![menu](https://github.com/user-attachments/assets/d9af3732-7afd-4380-932a-c8a758363cec)
+![password prompt](https://github.com/user-attachments/assets/8be6d807-fca2-4a1d-a402-97344e2141eb)
+![hidden file shown](https://github.com/user-attachments/assets/042de7cd-90bf-416b-b9d6-4042cc68fa7e)
 
-![Screenshot_20250325_123804](https://github.com/user-attachments/assets/2f2a7d04-5ffc-49f4-9929-12d87904c921)
-![Screenshot_20250325_123757](https://github.com/user-attachments/assets/324c4dcf-914a-4ee2-8387-af23e2647891)
-![Screenshot_20250325_123748](https://github.com/user-attachments/assets/1eb555a1-0d94-4ca7-8d1e-aa2cc2020ac0)
+
