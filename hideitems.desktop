@@ -3,7 +3,7 @@ Icon=visibility
 Name=hideitems
 Name[nl]=Items verbergen
 Comment=Toggle the visibility of selected items
-Version=v1.01
+Version=v1.02
 Author=claudemods
 
 [Desktop Action ToggleVisibility]
