@@ -9,6 +9,7 @@ Author=claudemods
 [Desktop Action ToggleVisibility]
 Name=Toggle Visibility
 Name[nl]=Toggle Visibility
+
 Name[nl]=Tonen/Verbergen
 Icon=visibility
 Exec=pkexec /home/$USER/.local/share/kio/servicemenus/toggle-visibility.sh
