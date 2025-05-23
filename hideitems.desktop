@@ -6,12 +6,13 @@ Terminal=true
 Actions=ToggleVisibility;
 Icon=visibility
 Name=hideitems
+Name[nl]=Items verbergen
 Comment=Toggle the visibility of selected items
 Version=v1.0
 Author=claudemods
 
 [Desktop Action ToggleVisibility]
 Name=Toggle Visibility
-Name[nl]=Toggle Visibility
+Name[nl]=Tonen/Verbergen
 Icon=visibility
 Exec=pkexec /home/$USER/.local/share/kio/servicemenus/toggle-visibility.sh
